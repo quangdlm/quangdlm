@@ -59,19 +59,16 @@
 
 ## 📫 How To Reach Me
 <div align="center">
-  <a href="mailto:ptnghia3052@gmail.com" >
+  <a href="mailto:minhquang26116@gmail.com" >
     <img align="center" width="40px" src="https://img.icons8.com/color/344/gmail--v1.png" />
   </a> &nbsp; 
-  <a href="https://www.facebook.com/nghia.pham0305" >
+  <a href="https://www.facebook.com/dangquang2601" >
     <img align="center" width="40px" src="https://img.icons8.com/fluency/344/facebook-new.png" />
   </a> &nbsp; 
-  <a href="https://www.instagram.com/ptnghia3502" >
-    <img align="center" width="40px" src="https://img.icons8.com/fluency/344/instagram-new.png" />
-  </a> &nbsp;
-  <a href="https://github.com/ptnghia3502" >
+  <a href="https://github.com/quangdlm" >
     <img align="center" width="40px" src="https://img.icons8.com/fluency/344/github.png" />
   </a> &nbsp;
-  <a href="https://www.linkedin.com/in/ptnghia-zen" >
+  <a href="https://www.linkedin.com/in/denguang" >
     <img align="center" width="40px" src="https://img.icons8.com/fluency/344/linkedin.png" />
   </a> &nbsp; 
 </div>
@@ -83,4 +80,3 @@
 quangdlm/quangdlm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![CI with GitHub Actions using Ant and JUnit](https://github.com/quangdlm/math-util-se1615-ant/actions/workflows/ci-with-ant.yml/badge.svg)](https://github.com/quangdlm/math-util-se1615-ant/actions/workflows/ci-with-ant.yml)
