@@ -18,7 +18,10 @@
 <!-- FRAMEWORK -->
   <span><img src="https://img.shields.io/badge/Spring Boot-F8F8FF?logo=Spring Boot&logoColor=6DB33F" alt="Spring Boot logo" title="Spring Boot" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/Java-F8F8FF?logo=Java&logoColor=239120" alt="Java logo" title="Java" height="25" /></span>
+  <span>
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java logo" title="Java" height="25" />
+  <img src="https://img.shields.io/badge/Java-F8F8FF?logo=Java&logoColor=239120" alt="Java" title="Java" height="25" />
+  </span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/-C%2FC++-white.svg?style=flat&logo=c%2B%2B&logoColor=red" alt="C/C++" title="C/C++" height="25" /></span>
   &nbsp;
