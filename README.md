@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
     +  facebook: https://facebook.com/Dangquang2601/
-    +  linkedin: https://www.linkedin.com/in/quang-dang-a79979224/ 
+    +  linkedin: https://www.linkedin.com/in/denguang/ 
 
 <!---
 quangdlm/quangdlm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
