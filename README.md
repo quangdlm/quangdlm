@@ -1,6 +1,9 @@
 👋 Hi, I’m Quang
+<br>
 💞️ Love cat, cute animals, and girls
+<br>
 👀 I’m interested in studying languages, watching Drama movies, traveling around the world, especially VietNam and Chinese
+<br>
         Nice to meet you!
 ## 👋 About Me
 - :credit_card: My full name is **Đặng Lê Minh Quang**
