@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Quang
-- 💞️ Love cat, cute animals, and girls
-- 👀 I’m interested in studying languages, watching Drama movies, traveling around the world, especially VietNam and Chinese
+👋 Hi, I’m Quang
+💞️ Love cat, cute animals, and girls
+👀 I’m interested in studying languages, watching Drama movies, traveling around the world, especially VietNam and Chinese
         Nice to meet you!
-- ## 👋 About Me
+## 👋 About Me
 - :credit_card: My full name is **Đặng Lê Minh Quang**
 - :school: I'm currently the last year student at **FPT University - Ho Chi Minh City**
 - :books: My major is **Software Engineering**
