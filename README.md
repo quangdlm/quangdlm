@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Software Engineer, Business Analysis (for Software Development).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-    +  facebook: facebook.com/Dangquang2601/
+    +  facebook: https://facebook.com/Dangquang2601/
     +  linkedin: https://www.linkedin.com/in/quang-dang-a79979224/ 
 
 <!---
