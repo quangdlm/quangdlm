@@ -4,7 +4,7 @@
 <br>
 👀 I’m interested in studying languages, watching Drama movies, traveling around the world, especially VietNam and Chinese
 <br>
-"Meet you = () => return ('My lucky!');"
+<div style={text-style: bold}> "Meet you = () => return ('My lucky!');" </div>
 ## 👋 About Me
 - :credit_card: My full name is **Đặng Lê Minh Quang**
 - :school: I'm currently the last year student at **FPT University - Ho Chi Minh City**
