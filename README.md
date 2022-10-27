@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Đặng Lê Minh Quang
-- 👀 I’m interested in studying languages, watching Drama movies,
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in studying languages, watching Drama movies, Traveling around the world, especially VietNam and Chinese,.
+- 🌱 I’m currently learning Software Engineer, Business Analysis (for Software Development).
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
+    +  facebook: facebook.com/Dangquang2601/
+    +  linkedin: https://www.linkedin.com/in/quang-dang-a79979224/ 
 
 <!---
 quangdlm/quangdlm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
