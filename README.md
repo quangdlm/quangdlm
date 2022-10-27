@@ -15,6 +15,9 @@
 
 ## 🛠 Technologies and Tools
 <!-- LANGUAGES -->
+<!-- FRAMEWORK -->
+  <span><img src="https://img.shields.io/badge/Spring Boot-F8F8FF?logo=Spring Boot&logoColor=6DB33F" alt="Spring Boot logo" title="Spring Boot" height="25" /></span>
+  &nbsp;
   <span><img src="https://img.shields.io/badge/Java-F8F8FF?logo=Java&logoColor=239120" alt="Java logo" title="Java" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/C-F8F8FF?logo=C&logoColor=00B1E7" alt="C" title="C" height="25" /></span>
@@ -38,11 +41,6 @@
   <span><img src="https://img.shields.io/badge/Apache NetBeans IDE-F8F8FF?logo=Apache NetBeans IDE&logoColor=1B6AC6" alt="Apache NetBeans IDE logo" title="Apache         NetBeans IDE" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/IntelliJ IDEA-F8F8FF?logo=IntelliJ IDEA&logoColor=000000" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="25" />   </span>
-<!-- FRAMEWORK -->
-  <span><img src="https://img.shields.io/badge/Spring Boot-F8F8FF?logo=Spring Boot&logoColor=6DB33F" alt="Spring Boot logo" title="Spring Boot" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/Spring Boot-F8F8FF?logo=Spring Boot&logoColor=6DB33F" alt="Spring Boot logo" title="Spring Boot" height="25" /></span>
-  &nbsp;
 </p>
 <!-- OTHER TOOL -->
     <span><img src="https://img.shields.io/badge/Postman-F8F8FF?logo=Postman&logoColor=FF6C37" alt="Postman" title="Postman" height="25" /></span>
