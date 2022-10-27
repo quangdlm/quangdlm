@@ -1,7 +1,15 @@
-- 👋 Hi, I’m Đặng Lê Minh Quang
-- 👀 I’m interested in studying languages, watching Drama movies, Traveling around the world, especially VietNam and Chinese,.
-- 🌱 I’m currently learning Software Engineer, Business Analysis (for Software Development).
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Quang
+- 💞️ Love cat, cute animals, and girls
+- 👀 I’m interested in studying languages, watching Drama movies, traveling around the world, especially VietNam and Chinese
+        Nice to meet you!
+- ## 👋 About Me
+- :credit_card: My full name is **Đặng Lê Minh Quang**
+- :school: I'm currently the last year student at **FPT University - Ho Chi Minh City**
+- :books: My major is **Software Engineering**
+- :earth_asia: I'm now living in **Ho Chi Minh City, Viet Nam**
+- :bulb: Best fact: ***"Living is a function and hard working is an expected!*** 
+
+
 - 📫 How to reach me 
     +  facebook: https://facebook.com/Dangquang2601/
     +  linkedin: https://www.linkedin.com/in/denguang/ 
