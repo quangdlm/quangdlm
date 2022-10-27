@@ -20,7 +20,7 @@
   &nbsp;
   <span><img src="https://img.shields.io/badge/Java-F8F8FF?logo=Java&logoColor=239120" alt="Java logo" title="Java" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/C-F8F8FF?logo=C&logoColor=00B1E7" alt="C" title="C" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/C-F8F8FF?logo=C&logoColor=00B1E7" alt="C/C++" title="C/C++" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/Microsoft SQL Server-F8F8FF?logo=Microsoft SQL Server&logoColor=CC2927" alt="Microsoft SQL Server" title="Microsoft SQL   Server" height="25" /></span>
   &nbsp;
