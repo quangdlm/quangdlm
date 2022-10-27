@@ -55,7 +55,7 @@
 <!--https://github.com/anuraghazra/github-readme-stats-->
 <div align=center>
     <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangdlm&layout=compact&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border=true" />
-  <br>
+  <br> <br>
     <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=quangdlm&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 </div></br>
 
