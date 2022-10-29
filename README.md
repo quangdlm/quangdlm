@@ -9,7 +9,7 @@
 <br>
 
 
-### --> **Meet you = ("Our relationship") => return ('My lucky!');**
+### --> **Meet you = ("Our relationship") => return ('My happy!');**
 ## 👋 About Me
 - :credit_card: My full name is **Đặng Lê Minh Quang**
 - :school: I'm currently the last year student at **FPT University - Ho Chi Minh City**
