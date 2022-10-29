@@ -1,4 +1,4 @@
-<div style="margin: 0px auto">
+<div style="item-align: center">
 <img src="https://raw.githubusercontent.com/quangdlm/quangdlm/main/Git%20Preview.gif" height="300px"/>
 </div>
 👋 Hi, I’m Quang
