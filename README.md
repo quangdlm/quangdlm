@@ -1,5 +1,5 @@
-<div style="margin-left: 100px">
-<img src="https://raw.githubusercontent.com/quangdlm/quangdlm/main/Git%20Preview.gif" height="300px"/>
+<div >
+<img style="margin-left: 100px" src="https://raw.githubusercontent.com/quangdlm/quangdlm/main/Git%20Preview.gif" height="300px"/>
 </div>
 👋 Hi, I’m Quang
 <br>
