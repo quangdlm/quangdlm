@@ -16,7 +16,7 @@
 - :school: I'm currently the last year student at **FPT University - Ho Chi Minh City**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm now living in **Ho Chi Minh City, Viet Nam**
-- :bulb: Best fact: ***"Living is a function and hard working is an expected!*** 
+- :bulb: Best fact: ***"Living is a function and hard working is an expected!"*** 
 
 
 ## 🛠 Technologies and Tools
