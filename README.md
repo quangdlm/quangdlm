@@ -64,7 +64,7 @@
   <br> <br>
     <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=quangdlm&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 </div></br>
-
+[![CI with GitHub Actions using Ant and JUnit](https://github.com/quangdlm/math-util-se1615-ant/actions/workflows/ci-with-ant.yml/badge.svg)](https://github.com/quangdlm/math-util-se1615-ant/actions/workflows/ci-with-ant.yml)
 ## 📫 How To Reach Me
 <div align="center">
   <a href="mailto:minhquang26116@gmail.com" >
