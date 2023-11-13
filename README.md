@@ -18,7 +18,7 @@
 - :earth_asia: I'm now living in **Ho Chi Minh City, Viet Nam**
 - :bulb: Best fact: ***"Living is a function and hard working is an expected!"***
                      ***"Hạnh phúc là cảm xúc lúc ta ở một mình"*** 
-- :cupid: Favorites: :notes::musical_note:, :smile_cat::dog:, :earth_asia:, :dollar:.
+- :cupid: Favorites: :notes:, :musical_keyboard:, :smile_cat:, :dog:, :earth_asia:, :dollar:...
 
 ## 🛠 Technologies and Tools
 <!-- LANGUAGES -->
